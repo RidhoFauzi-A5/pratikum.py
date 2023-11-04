@@ -1,11 +1,3 @@
-# Praktikum 2
-
-## Flowchartnya
-
-![Alt text](flowchart.jpg)
-## kode programnya
-
-``````
 # Program untuk menentukan bilangan terbesar dari tiga bilangan
 
 # Membaca input dari pengguna
@@ -23,8 +15,3 @@ else:
 
 # Menampilkan hasil
 print("Bilangan terbesar adalah:", terbesar)
-``````
-
-## Outputmya
-
-![Alt text](image-3.png)
